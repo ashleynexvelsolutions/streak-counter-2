@@ -1,6 +1,6 @@
 {
   "name": "@nexvelso/streak-counter-2",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "devDependencies": {
     "@types/jest": "^27.4.1",
     "@types/jsdom": "^16.2.14",
